@@ -5,4 +5,3 @@ scikit-learn
 tensorflow==2.13.0
 tensorboard
 matplotlib
-python==3.10
